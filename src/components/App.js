@@ -11,7 +11,7 @@ const App = () => {
       setPolo("Marco");
     }
     else{
-      setMarco("Macro");
+      setMarco("Marco");
       setPolo("Polo");
     }
   }
